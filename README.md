@@ -1,4 +1,4 @@
-# 🎓 Student Performance Predictor
+# 🎓 Cloud Based Student Performance Predictor
 
 A cloud-deployed machine learning project to analyze and predict student exam performance based on socio-demographic and preparation-related features. This end-to-end system leverages statistical analysis, machine learning models, and robust MLOps practices using **AWS EC2 + ECR** and **Azure Container Deployment**.
 
